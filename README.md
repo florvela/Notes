@@ -1,2 +1,2 @@
 # Notes
-Notes app with Authentication by user with Python and Flask
+Creating simple website with Python + Flask + Javascript
